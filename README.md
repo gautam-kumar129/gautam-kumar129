@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Gautam 👋
 
-<!--
-**gautam-kumar129/gautam-kumar129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎯 Aspiring Data Analyst  
+- 📊 Skilled in Power BI, SQL, Excel  
+- 📍 Based in India  
 
-Here are some ideas to get you started:
+## 🔧 Tools & Skills
+- Power BI  
+- SQL (MySQL)  
+- Excel  
+- Data Cleaning  
+- Data Visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### 📊 Amazon Sales Dashboard
+- Analyzed Amazon sales data to track revenue and performance  
+- Identified top-selling products and trends  
+- Tools: Power BI, Excel  
+
+### 🛒 RetailMart Sales Analysis
+- Performed retail sales analysis to find customer behavior  
+- Created interactive dashboard for business insights  
+- Tools: Power BI, SQL  
+
+### 🦠 COVID-19 Data Analysis
+- Analyzed COVID-19 data to track cases and trends  
+- Visualized data for better understanding  
+- Tools: Power BI, Excel  
+
+## 📫 Contact Me
+- Linkedin :https://www.linkedin.com/in/gautam-kumar-644146384/
+- Email: gautamkumar722003@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gautam-kumar-644146384/
+- Email: gautamkumar722003@gmail.com
