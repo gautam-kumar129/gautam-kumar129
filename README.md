@@ -32,5 +32,4 @@
 ## 📫 Contact Me
 - Linkedin :https://www.linkedin.com/in/gautam-kumar-644146384/
 - Email: gautamkumar722003@gmail.com
-- LinkedIn: https://www.linkedin.com/in/gautam-kumar-644146384/
-- Email: gautamkumar722003@gmail.com
+
